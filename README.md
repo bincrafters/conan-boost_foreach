@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Foreach](https://github.com/Boostorg/Foreach) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Foreach%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Foreach%3Abincrafters).
 
 ## For Users: Use this package
 
