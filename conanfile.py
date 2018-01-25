@@ -8,7 +8,8 @@ class BoostForeachConan(ConanFile):
     name = "boost_foreach"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_foreach"
-
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["foreach"]
     is_header_only = True
 
