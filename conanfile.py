@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.68.0@bincrafters/testing")
 
 class BoostForeachConan(base.BoostBaseConan):
     name = "boost_foreach"
+    version = "1.68.0"
     url = "https://github.com/bincrafters/conan-boost_foreach"
     lib_short_names = ["foreach"]
     header_only_libs = ["foreach"]
